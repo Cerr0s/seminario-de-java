@@ -1,4 +1,4 @@
-# Seminario de Java para John Bawer y Fertsu
+# Seminario de Java
 
 ## Seminario Básico de Java (Sesion 001)
 
